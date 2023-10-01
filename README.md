@@ -1,5 +1,6 @@
 # The-Resonator
-A 72-hour Game Jam project hosted by Murdoch University's CO-OP Game Development Club
+Note: This particular GitHub Repository is used essentially a reupload of this completed Unity Project that initially used Plastic SCM as it's version control too.
+A 72-hour Game Jam project hosted by Murdoch University's CO-OP Game Development Club.
 
 A small town has been taken over by a unknown evil.
 
