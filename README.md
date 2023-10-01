@@ -1,8 +1,6 @@
 # The-Resonator
 A 72-hour Game Jam project hosted by Murdoch University's CO-OP Game Development Club
 
-About
-
 A small town has been taken over by a unknown evil.
 
 You, the Resonator, must purge this town of the evil that has claimed it.  Use your powerful sonic scream to shatter these brittle enemies. But your scream is not enough! Tune the tuning forks scattered around the map with your scream to ensure the termination of these unwelcomed monsters via the power of resonance! 
@@ -21,3 +19,7 @@ Player was able to use a super scream ability.
 Consisted of multiple glass enemies that would pursue the player, these enemies could be shattered using the super scream ability.
 Large map with various visual effects for the player to explore and traverse. 
 Various large tuning forks various the map that needed to be super screamed at.
+
+For more information visit my personal digital portfolio:
+https://sites.google.com/view/allan-zheng-portfolio/software-projects/the-resonator
+
